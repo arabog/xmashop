@@ -6,8 +6,7 @@
   "scripts": {
     "start": "npm start --prefix client",
     "server": "node index.js",
-    "dev": "concurrently \"npm run server\" \"npm start\"",
-    "heroku-postbuild": "cd client && npm install && npm run build"
+    "dev": "concurrently \"npm run server\" \"npm start\""
   },
   "author": "HUGB",
   "license": "ISC",
