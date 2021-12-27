@@ -1,1 +1,1 @@
-https://hugb-ecommerce.herokuapp.com/
+https://xmashop.herokuapp.com/

@@ -3,9 +3,9 @@ import axios from "axios"
 
 
 
-// const BASE_URL ="https://xmashop.herokuapp.com/api/"
+const BASE_URL ="https://xmashop.herokuapp.com/api/"
 
-const BASE_URL ="http://localhost:7000/api/"
+// const BASE_URL ="http://localhost:7000/api/"
 
 
 const user = JSON.parse(localStorage.getItem("persist:root"))?.user;
