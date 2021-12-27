@@ -4,7 +4,7 @@
   "description": "e-commerce",
   "main": "index.js",
   "scripts": {
-    "start": "npm start --prefix client",
+    "start": "npm start",
     "server": "node index.js",
     "heroku-postbuild": "cd client && npm install && npm run build"
   },
